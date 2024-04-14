@@ -1,7 +1,7 @@
 # A7-ReadME
 My Assignment Portfolio for ANLY 4100
 # Data Analytics Portfolio
-This is the portfolio of all class assignments I have completed in Data Analytics. It will serve as a brief example of what I am currently capable within the bounds of Python, regarding the application of business performance and trend analytics.
+This is the portfolio of all class assignments I have completed in Data Analytics. It will serve as a brief example of what I am currently capable within the bounds of Python, regarding the application of business performance and trend analytics.To be honest, this class has been rather challenging for me, but I have appreciated the learning outcomes. I haven't been able to say that about many of my classes, so I appreciate it.
 
 ## My Résumé
 - [Résumé](https://colab.research.google.com/drive/1LJz63e1bh6v_BtjuKkJVl_c9MPZFlAcl?usp=sharing)
